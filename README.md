@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is my "Pomodoro Clock" React Front-end project
+
+You could check out this project at the link: https://duckie98.github.io/pomodoro_clock/
 
 ## Available Scripts
 
