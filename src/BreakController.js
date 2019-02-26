@@ -11,7 +11,7 @@ export class BreakController extends Component {
     this.props.decreaseBreakTime();
     if (this.props.timerRunning === false) {
       if (this.props.breakTime !== 1)
-        this.props.setCurrentTime(`${this.props.breakTime + 1} : 00`);
+        this.props.setCurrentTime(`${this.props.breakTime - 1} : 00`);
     }
   };
   render() {
